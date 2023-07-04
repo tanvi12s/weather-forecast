@@ -1,1 +1,1 @@
-# weather-forecast
+Visualization of weather patterns
